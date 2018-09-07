@@ -1,0 +1,65 @@
+.main
+{
+    background-color: blue;
+	height:800px;
+	width: 100%;
+}
+.one
+{
+	background-color: white;
+	height: 80%;
+	width: 90%;
+	margin-bottom: 50px;
+	margin-top: 25px;
+    border-radius: 25px;
+    margin-left: 60px;
+}
+.two
+{
+  color: black;
+  padding-top: 55px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Baloo Bhai', cursive;
+  padding-bottom: 22px;
+}
+.three
+{
+	width: 50%;
+}
+.ip1
+{
+	background-color: #C0C0C0;
+	border-radius: 25px;
+	padding-left: 15px;
+	width: 300px;
+	margin-bottom: 12px;
+	height: 25px; 
+	border: 1px solid #C0C0C0;
+	margin-left: 55px;
+	
+
+}
+.ip2
+{
+	background-color: #C0C0C0;
+	margin-left: 55px;
+	border-radius: 25px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	width: 300px;
+	margin-bottom: 15px;
+	height: 125px; 
+	border-color: #C0C0C0;
+	padding-top: 00px;
+border: 1px solid #C0C0C0;
+
+}
+.button
+{
+	width: 115px;
+	border-radius: 25px;
+	background-color: green;
+	border: 1px solid green;
+	font-weight: bold;
+	height: 30px;
+}
