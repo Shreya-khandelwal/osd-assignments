@@ -1,0 +1,320 @@
+.intro
+{
+	text-align: center;
+	margin: 0px 200px 0px 200px;
+}
+h1
+{
+	line-height: normal;
+	font-weight: normal;
+}
+h3
+{
+	line-height: normal;
+	font-weight: normal;
+}
+button
+{
+	border-radius: 22px;
+	border: 1px solid;
+	font-size: 14px;
+
+}
+.para
+{
+	margin: 0px 280px 30px 280px;
+	display: block;
+	font-size: 14px;
+
+}
+.container
+{
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+.para1
+{
+	margin-top: 16.8px;
+	margin-bottom: 16.8px;
+	font-size: 17px;
+	font-weight: bold;
+}
+.button-group
+{
+	margin-top: 80px;
+}
+.button1
+{
+	color: white;
+	background-color: transparent;
+	padding: 8px 18px 10px;
+	border-color: white;
+}
+.layer
+{
+	color: inherit;
+	background-color: rgba(0,0,0,.55);
+}
+.button2
+{
+	color: white;
+	background-color: #6AAEBf;
+	border-color: #6AAEBF;
+}
+.navbar1
+{
+	padding-right: 270px;
+	padding-left: 270px;
+	border-bottom-color: #CCC;
+	padding-top: 15px;
+	padding-bottom: 7px;
+	display: flex;
+	border-bottom: 1px solid #CCC;
+}
+.back
+{
+	background-image: url("background-01.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.55);
+}
+header
+{
+	line-height: normal;
+	font-weight: normal;
+	display: flex;
+}
+
+.two
+{
+	width: 50%;
+	display: flex;
+   margin-left: 180px;
+   margin-top: 10px;
+   text-align: center;
+   margin: auto;
+   margin-left: 250px;
+   font color: white;
+   font-weight: bold;
+   font-size: 30px;
+}	
+.three
+{
+    width: 50%;
+	display: flex;	
+	margin: auto;
+	font color: #ffffff;
+	font-weight: bold;
+}
+nav
+{
+	margin-right: 25px;
+}
+hr
+{
+	
+    style="height: 0;
+     width: 99%; 
+     line-height:0;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     border-bottom:2px solid #ffffff;
+}
+.four
+{
+	background-image: url(background-01.jpg);
+	height: 500px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.layer2
+{
+	background-color: #6B7D8D;
+}
+.five
+{
+	padding-top: 180px;
+	font color: white;
+	margin: auto;
+	text-align: center;
+	opacity: 20;
+}
+.but1
+{
+	 border-radius: 25px;
+	 height: 40px;
+	 width: 170px;
+	 margin-left: 530px;
+	 background-color: #6AAEBF;
+	 border: 1px solid #6AAEBF;
+	}
+.but2
+{
+	 border-radius: 25px;
+	 height: 40px;
+	 width: 150px;
+	 margin-left: 40px;
+	 background: transparent;
+	 border: 1px solid #FFF;
+
+}
+.font1
+{
+	font-size: 25px;
+}
+.six
+{
+	padding-left: 200px;
+}
+.seven
+{
+	display: flex;
+	margin-left:200px; 
+	margin-right:200px;
+}
+.eight
+{
+	width: 25%;
+	padding-right: 25px;
+}
+.nine
+{
+	background-image:url("background-02.jpg"); 
+	height: 370px;
+	width: 100%;
+
+
+}
+
+.eleven
+{
+     
+	margin: 0px,0px,0px;
+	margin-left: 800px;
+	width: 50%;
+	background-color: rgba(49,101,115,.75);
+	height: 290px;
+	padding-left: 50px;
+	padding-top: 80px;
+	
+}
+
+.twelve
+{
+	background-color: #C0C0C0;
+	width: 33.33%;
+	font-size: 16px;
+	padding-bottom: 30px;
+	margin-right: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	word-spacing: 4px;
+	margin-bottom: 90px;
+}
+.img
+{
+	width: 33.33%;
+	padding-right: 50px;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 25px;
+
+}
+.img2
+{
+		border-radius: 50px;
+}
+.last
+{
+	background-image: url("background-03.jpg");
+	width: 100%;
+	display: flex;
+	height: 100px;
+	margin-bottom: 70px;
+}
+.layer1
+{
+	background-color: #696969;
+}
+.lastone
+{
+    font color: #ffffff;
+    font-size: 20px;
+margin-left: 290px;
+margin-top: 50px;
+}
+
+.but
+{
+	background-color: #6AAEBF;
+	border: 1px solid #6AAEBF;
+	color: #ffffff;
+	width: 190px;
+	height: 35px;
+	border-radius: 15px;
+	padding-left: 3px;
+	padding-right: 3px;
+	margin-top: 40px;
+	margin-left: 140px;
+}
+.thirteen
+{
+	margin: 0 200px 85px 200px;
+	
+}
+.fourteen
+{
+	
+	display: flex;
+	margin: 0px 200px 0px 200px;
+}
+.fifteen
+{
+	width: 33.33%;
+	padding-bottom: 45px;
+	margin-right: 30px;
+	align-items: center;
+
+}
+a
+{
+	text-decoration: none;
+	color: #6AAEBF;
+}
+.contact
+{
+	background-image: url("background-04.jpg");
+	width: 1192.5px;
+	height: 110px;
+	display: flex;
+	padding-left: 300px;
+	padding-right: 10px;
+	padding-top: 20px;
+
+}
+.sixteen
+{
+	margin-right: 200px;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 15px;
+	
+}
+.seventeen
+{
+	width: 100%;
+	height: 413px;
+	background-color: #252525;
+}
+.eighteen
+{
+	width: 100%;
+	height: 262px;
+	background-color: #141414;
+}
